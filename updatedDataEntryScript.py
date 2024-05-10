@@ -26,7 +26,7 @@ continue_button = browser.find_element(By.XPATH, value="//input[@value='Continue
 
 first_name.send_keys("FFirstName")
 last_name.send_keys("LLastName")
-email.send_keys("sample-email1@data.com")
+email.send_keys("friaz7860@gmail.com")
 telephone.send_keys("+351999888888")
 password.send_keys("12345678")
 password_confirm.send_keys("12345678")
